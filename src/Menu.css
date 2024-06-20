@@ -1,0 +1,27 @@
+/* src/components/Menu.css */
+.menu {
+    background-color: deepskyblue;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    padding: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .menu-container {
+    background-color: rgba(0, 0, 0, 0.12)
+}
+h3{
+    text-decoration: underline;
+    font-size: 19px;
+    color: black;
+    font-weight: bold;
+}
+ul{
+    list-style:circle;
+}
+  

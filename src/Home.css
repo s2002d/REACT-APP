@@ -1,0 +1,13 @@
+/* src/components/Home.css */
+.home {
+    background-color: rgb(93, 94, 91);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+  }
+  

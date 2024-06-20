@@ -1,0 +1,16 @@
+/* src/components/About.css */
+.about {
+    background-color: rgb(66, 67, 64);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+  }
+  .about h1{
+    color: darkgoldenrod;
+  }
+  
